@@ -3,7 +3,7 @@
 社区版 · 免费使用 — 专为 AI 模型设计的加密保护与安全部署工具
 Community Edition · Free — encryption protection and secure deployment for AI models
 
-> 📮 反馈与订阅 / Feedback & Subscribe：国内 China — aegiscrypto@163.com ｜ 国际 International — aegiscrypto@zohomail.com
+> 📮 反馈与订阅 / Feedback & Subscribe：aegiscrypto@139.com 
 
 > ⚠️ **内测版本 / Beta**：当前为内测版本，部分模型尚未经过充分压力测试；如遇问题，欢迎通过上方邮箱反馈。
 > **Beta release**: This is a beta version. Some models have not been fully stress-tested. If you encounter issues, feedback is welcome via the email above.
